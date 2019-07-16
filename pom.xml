@@ -262,6 +262,6 @@
 			</configuration>
 		</plugin>
 		</plugins>
-		<finalName>Training Management System</finalName>
+		<finalName>TMS</finalName>
 	</build>
 </project>
