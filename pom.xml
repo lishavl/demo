@@ -260,8 +260,6 @@
 			<configuration>
 				<warSourceDirectory>WebContent</warSourceDirectory>
 				<failOnMissingWebXml>false</failOnMissingWebXml>
-			</configuration>
-	                <configuration>
 				<failOnMissingWebXml>false</failOnMissingWebXml>
 			</configuration>
 		</plugin>
